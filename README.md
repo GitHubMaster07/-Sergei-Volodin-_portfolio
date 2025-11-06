@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔧 [UI/API/Database Automation Framework](https://github.com/SergeVol/ui-api-db-framework)  
+- 🔧 [UI/API/Database Automation Framework](https://github.com/GitHubMaster07/Senior-SDET-Automation-Framework.git)  
   Scalable framework using Java, Selenium, Playwright, and Rest Assured with CI/CD integration.
 
 - 📱 [Mobile Testing Framework (Appium)](https://github.com/SergeVol/mobile-testing-framework)  
